@@ -24,3 +24,10 @@ Click the "Deploy to Azure" button and then follow the relevant walkthrough link
 2. [Docker Swarm](https://docs.docker.com/swarm/overview/) - learn more about Docker Swarm.
 
 3. [Docker Compose](https://docs.docker.com/compose/overview/) - Learn more about Docker Compose.
+
+
+https://azure.microsoft.com/en-us/blog/archive-elasticsearch-indices-to-azure-blob-storage-using-the-azure-cloud-plugin/
+
+https://www.elastic.co/guide/en/elasticsearch/plugins/current/discovery-azure-classic.html
+
+https://github.com/rcarmo/azure-docker-swarm-cluster
